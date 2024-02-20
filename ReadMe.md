@@ -1,4 +1,4 @@
-# Project Name
+# OpenGL framework with Ray Tracing and Phong Shading shaders
 
 A basic architecture that demonstrate scenes using Ray Tracing techniques. This repo is built for future projects. Two Ray Tracing scenes are demonstrated here. One can also see the shaders I posted on The Shadertoy.
 
@@ -11,7 +11,7 @@ A basic architecture that demonstrate scenes using Ray Tracing techniques. This 
 
 ## Screenshots
 
-![Screenshot 1](./res/screenshots/Two_Balls.png)
+![Screenshot 1](./res/screenshots/Two_balls.png)
 *Ray Tracing and Phong Shading*
 
 ![Screenshot 2](./res/screenshots/Glass.png)
